@@ -1,0 +1,16 @@
+.recipeName .form-control {
+	font-size: 20px;
+}
+
+.ingredientRow {
+	margin-bottom: 6px;
+}
+
+.ingredientRow .form-control {
+	width: 70%;
+	display: inline-block;
+}
+
+.btn.addIngredientButton, .btn.saveChangesButton {
+	margin-left: 0px !important;
+}

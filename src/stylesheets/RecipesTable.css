@@ -1,0 +1,10 @@
+.RecipesTable.table {
+	background: #fff;
+	vertical-align: middle;
+}
+.RecipesTable.table th, .RecipesTable.table td {
+	vertical-align: middle
+}
+.RecipesTable.table .recipeButtons {
+	text-align: right;
+}
