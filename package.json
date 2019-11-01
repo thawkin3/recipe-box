@@ -2,7 +2,7 @@
   "name": "recipe-box",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ec2-54-200-192-157.us-west-2.compute.amazonaws.com/recipeBox/",
+  "homepage": "http://tylerhawkins.info/recipeBox/",
   "dependencies": {
     "axios": "^0.17.1",
     "bootstrap": "^3.3.7",
